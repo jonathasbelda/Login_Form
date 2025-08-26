@@ -17,5 +17,5 @@ O design foca em **simplicidade, usabilidade e estética**, trazendo uma experi�
 ## 📸 Preview  
 
 
-![Preview do Projeto](https://via.placeholder.com/800x400.png?text=Exemplo+da+Tela+de+Login)  
+![Tela de login](https://github.com/jonathasbelda/Login_Form/blob/main/IMAGEM/Login.png.png)  
 
