@@ -17,5 +17,5 @@ O design foca em **simplicidade, usabilidade e estética**, trazendo uma experi�
 ## 📸 Preview  
 
 
-![Tela de login](https://github.com/jonathasbelda/Login_Form/blob/main/IMAGEM/Login.png.png)  
+![Tela de login](https://github.com/jonathasbelda/Login_Form/blob/main/IMAGEM/Login.png)  
 
